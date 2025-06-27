@@ -8,6 +8,10 @@
 [![CRAN
 version](https://www.r-pkg.org/badges/version/spls)](https://cran.r-project.org/package=spls)
 [![R-CMD-check](https://github.com/valentint/spls/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/valentint/spls/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/valentint/spls/branch/master/graph/badge.svg)](https://app.codecov.io/gh/valentint/spls?branch=master)
+[![Codecov test
+coverage](https://codecov.io/gh/valentint/spls/graph/badge.svg)](https://app.codecov.io/gh/valentint/spls)
 [![downloads](https://cranlogs.r-pkg.org/badges/spls)](https://cran.r-project.org/package=spls)
 [![downloads](https://cranlogs.r-pkg.org/badges/grand-total/spls)](https://cran.r-project.org/package=spls)
 [![license](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
