@@ -19,6 +19,8 @@ Description: Provides functions for fitting a sparse
         partial least squares (SPLS) regression and classification
         (Chun and Keles (2010) <doi:10.1111/j.1467-9868.2009.00723.x>).
 License: GPL (>= 3)
+URL: https://github.com/valentint/spls
+BugReports: https://github.com/valentint/spls/issues
 NeedsCompilation: no
 Packaged: 2019-05-04 21:53:24 UTC; Share
 Repository: CRAN
