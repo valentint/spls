@@ -1,2 +1,12 @@
 ^\.github$
 ^codecov\.yml$
+
+..Rcheck
+
+^README\.Rmd$
+
+^docs$
+
+[.]png$
+^spls\.Rproj$
+^\.Rproj\.user$
