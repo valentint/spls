@@ -1,14 +1,14 @@
 Package: spls
-Version: 2.3-0
-VersionNote: Released 2.2-3 on 2019-05-04 on CRAN
+Version: 2.3-3
+VersionNote: Released 2.3-2 on 2025-06-30 on CRAN
 Title: Sparse Partial Least Squares (SPLS) Regression and
         Classification
 Authors@R: c(person("Dongjun", "Chung", role = c("aut"), email = "chungdon@stat.wisc.edu")
          , person("Hyonho", "Chun", role = "aut", email = "chun@stat.wisc.edu")
          , person("Sunduz", "Keles", role = "aut", email = "keles@stat.wisc.edu")
-         , person("Valentin", "Todorov", role = c("cre"), email = "valentin.todorov@chello.at", comment=c(ORCID = "0000-0003-4215-0245"))
+         , person("Valentin", "Todorov", role = c("cre"), email = "valentin@todorov.at", comment=c(ORCID = "0000-0003-4215-0245"))
           )
-Maintainer: Valentin Todorov <valentin.todorov@chello.at>
+Maintainer: Valentin Todorov <valentin@todorov.at>
 Author: Dongjun Chung [aut], 
         Hyonho Chun [aut],
         Sunduz Keles [aut],
